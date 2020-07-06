@@ -1,0 +1,28 @@
+.title-color {
+  color: #555273;
+}
+
+img {
+  width: 300px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+  width: 75vw;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  background-color: #b7d6dc;
+}
+
+a {
+  text-decoration: none;
+  margin: 10;
+  padding: 10;
+}
